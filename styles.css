@@ -1,0 +1,39 @@
+.container {
+    position: relative;
+    text-align: left;
+    color: black;
+}
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+.box {
+	background-color: #fafcfb;
+	padding: 30px;
+	margin: 30px;
+	padding-left: 0px;
+}
+.img_box {
+	background-color: #38a5dd;
+	color: white;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+.item{
+	font-size: 12px;
+}
+h1{
+    margin-bottom: 20px;
+    padding:0px;
+}
+h4{
+	margin-top: 00px;
+    margin-bottom: 05px;
+    padding:0px;
+}
+p{
+    margin: 0px;
+    padding:0px;
+}
